@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPSocketServer", "HPSocketServer\HPSocketServer.csproj", "{2F2FC5DF-9ABD-4AC1-8F83-51EB115D1869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientDemo", "ClientDemo\ClientDemo\ClientDemo.csproj", "{B65A20D2-5E51-4E56-9C63-8BDE27ED2A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F2FC5DF-9ABD-4AC1-8F83-51EB115D1869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2FC5DF-9ABD-4AC1-8F83-51EB115D1869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2FC5DF-9ABD-4AC1-8F83-51EB115D1869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2FC5DF-9ABD-4AC1-8F83-51EB115D1869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65A20D2-5E51-4E56-9C63-8BDE27ED2A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65A20D2-5E51-4E56-9C63-8BDE27ED2A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65A20D2-5E51-4E56-9C63-8BDE27ED2A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65A20D2-5E51-4E56-9C63-8BDE27ED2A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07FB2E15-C9A4-4CB5-B0EA-98EE21379146}
+	EndGlobalSection
+EndGlobal
